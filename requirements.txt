@@ -1,0 +1,22 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+numpy
+fastapi
+uvicorn
+streamlit
+python-dotenv
+# fine-tuning (optional)
+transformers
+peft
+datasets
+torch
+ollama
+python-dotenv
+numpy
+rank-bm25
+pypdf
+fastapi
+uvicorn
+streamlit
